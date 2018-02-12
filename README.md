@@ -34,6 +34,7 @@ sample input：
 2 3
 
 1 0
+
 sample output：
 
 0 1 1
