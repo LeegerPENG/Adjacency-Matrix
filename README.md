@@ -20,16 +20,26 @@ For each test case, print the adjacency matrix.
 sample input：
 
 2
+
 3 5
+
 1 2
+
 2 1
+
 1 3
+
 3 2
+
 2 3
+
 1 0
 sample output：
 
 0 1 1
+
 1 0 1
+
 0 1 0
+
 0
